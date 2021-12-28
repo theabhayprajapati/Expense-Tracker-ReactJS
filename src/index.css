@@ -1,0 +1,20 @@
+body {
+  padding: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  text-align: left;
+  background-color: lightsalmon;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  padding: 15px;
+
+}
+
+.state {
+  background-color: antiquewhite;
+
+}
